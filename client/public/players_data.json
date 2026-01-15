@@ -1,0 +1,1442 @@
+[
+  {
+    "team": "Palmeiras",
+    "pos": "GK",
+    "name": "Vanderlei",
+    "rating": 78,
+    "base_value": 190,
+    "multiplier": 0.9,
+    "market_value": 171.0
+  },
+  {
+    "team": "Palmeiras",
+    "pos": "GK",
+    "name": "Neto",
+    "rating": 77,
+    "base_value": 160,
+    "multiplier": 0.9,
+    "market_value": 144.0
+  },
+  {
+    "team": "Palmeiras",
+    "pos": "ZG",
+    "name": "Natan",
+    "rating": 72,
+    "base_value": 50,
+    "multiplier": 0.9,
+    "market_value": 45.0
+  },
+  {
+    "team": "Palmeiras",
+    "pos": "ZG",
+    "name": "Cacá",
+    "rating": 74,
+    "base_value": 80,
+    "multiplier": 0.9,
+    "market_value": 72.0
+  },
+  {
+    "team": "Palmeiras",
+    "pos": "ZG",
+    "name": "Titi",
+    "rating": 75,
+    "base_value": 100,
+    "multiplier": 0.9,
+    "market_value": 90.0
+  },
+  {
+    "team": "Palmeiras",
+    "pos": "LD",
+    "name": "William Lepo",
+    "rating": 72,
+    "base_value": 50,
+    "multiplier": 1.0,
+    "market_value": 50.0
+  },
+  {
+    "team": "Palmeiras",
+    "pos": "LE",
+    "name": "Lautaro Blanco",
+    "rating": 72,
+    "base_value": 50,
+    "multiplier": 1.0,
+    "market_value": 50.0
+  },
+  {
+    "team": "Palmeiras",
+    "pos": "VOL",
+    "name": "Allan",
+    "rating": 84,
+    "base_value": 500,
+    "multiplier": 1.0,
+    "market_value": 500.0
+  },
+  {
+    "team": "Palmeiras",
+    "pos": "VOL",
+    "name": "Mercier",
+    "rating": 75,
+    "base_value": 100,
+    "multiplier": 1.0,
+    "market_value": 100.0
+  },
+  {
+    "team": "Palmeiras",
+    "pos": "MLG",
+    "name": "M. Almirón",
+    "rating": 79,
+    "base_value": 220,
+    "multiplier": 1.15,
+    "market_value": 252.99999999999997
+  },
+  {
+    "team": "Palmeiras",
+    "pos": "MLG",
+    "name": "Rodrigo Nestor",
+    "rating": 77,
+    "base_value": 160,
+    "multiplier": 1.15,
+    "market_value": 184.0
+  },
+  {
+    "team": "Palmeiras",
+    "pos": "MAT",
+    "name": "Nico De La Cruz",
+    "rating": 83,
+    "base_value": 430,
+    "multiplier": 1.15,
+    "market_value": 494.49999999999994
+  },
+  {
+    "team": "Palmeiras",
+    "pos": "PD",
+    "name": "Estevao",
+    "rating": 87,
+    "base_value": 800,
+    "multiplier": 1.3,
+    "market_value": 1040.0
+  },
+  {
+    "team": "Palmeiras",
+    "pos": "PE",
+    "name": "Felipe Anderson",
+    "rating": 81,
+    "base_value": 300,
+    "multiplier": 1.3,
+    "market_value": 390.0
+  },
+  {
+    "team": "Palmeiras",
+    "pos": "CA",
+    "name": "Pedro",
+    "rating": 81,
+    "base_value": 300,
+    "multiplier": 1.3,
+    "market_value": 390.0
+  },
+  {
+    "team": "Palmeiras",
+    "pos": "ATA",
+    "name": "F. Reynero",
+    "rating": 71,
+    "base_value": 40,
+    "multiplier": 1.3,
+    "market_value": 52.0
+  },
+  {
+    "team": "Sao Paulo",
+    "pos": "GK",
+    "name": "Everson",
+    "rating": 77,
+    "base_value": 160,
+    "multiplier": 0.9,
+    "market_value": 144.0
+  },
+  {
+    "team": "Sao Paulo",
+    "pos": "GK",
+    "name": "Fábio",
+    "rating": 82,
+    "base_value": 360,
+    "multiplier": 0.9,
+    "market_value": 324.0
+  },
+  {
+    "team": "Sao Paulo",
+    "pos": "ZG",
+    "name": "Leo Ortiz",
+    "rating": 81,
+    "base_value": 300,
+    "multiplier": 0.9,
+    "market_value": 270.0
+  },
+  {
+    "team": "Sao Paulo",
+    "pos": "ZG",
+    "name": "David Luiz",
+    "rating": 78,
+    "base_value": 190,
+    "multiplier": 0.9,
+    "market_value": 171.0
+  },
+  {
+    "team": "Sao Paulo",
+    "pos": "ZG",
+    "name": "Kanu",
+    "rating": 75,
+    "base_value": 100,
+    "multiplier": 0.9,
+    "market_value": 90.0
+  },
+  {
+    "team": "Sao Paulo",
+    "pos": "LD",
+    "name": "Mariano",
+    "rating": 77,
+    "base_value": 160,
+    "multiplier": 1.0,
+    "market_value": 160.0
+  },
+  {
+    "team": "Sao Paulo",
+    "pos": "LE",
+    "name": "Renan Lodi",
+    "rating": 83,
+    "base_value": 430,
+    "multiplier": 1.0,
+    "market_value": 430.0
+  },
+  {
+    "team": "Sao Paulo",
+    "pos": "VOL",
+    "name": "Nicolas Acevedo",
+    "rating": 82,
+    "base_value": 360,
+    "multiplier": 1.0,
+    "market_value": 360.0
+  },
+  {
+    "team": "Sao Paulo",
+    "pos": "VOL",
+    "name": "Gregore",
+    "rating": 80,
+    "base_value": 250,
+    "multiplier": 1.0,
+    "market_value": 250.0
+  },
+  {
+    "team": "Sao Paulo",
+    "pos": "MLG",
+    "name": "Kenedy",
+    "rating": 78,
+    "base_value": 190,
+    "multiplier": 1.15,
+    "market_value": 218.49999999999997
+  },
+  {
+    "team": "Sao Paulo",
+    "pos": "MLG",
+    "name": "Pedro Vilhena",
+    "rating": 72,
+    "base_value": 50,
+    "multiplier": 1.15,
+    "market_value": 57.49999999999999
+  },
+  {
+    "team": "Sao Paulo",
+    "pos": "MAT",
+    "name": "Jean Pyerre",
+    "rating": 77,
+    "base_value": 160,
+    "multiplier": 1.15,
+    "market_value": 184.0
+  },
+  {
+    "team": "Sao Paulo",
+    "pos": "PD",
+    "name": "J. Savarino",
+    "rating": 78,
+    "base_value": 190,
+    "multiplier": 1.3,
+    "market_value": 247.0
+  },
+  {
+    "team": "Sao Paulo",
+    "pos": "PE",
+    "name": "Guilherme",
+    "rating": 77,
+    "base_value": 160,
+    "multiplier": 1.3,
+    "market_value": 208.0
+  },
+  {
+    "team": "Sao Paulo",
+    "pos": "CA",
+    "name": "Janderson",
+    "rating": 75,
+    "base_value": 100,
+    "multiplier": 1.3,
+    "market_value": 130.0
+  },
+  {
+    "team": "Sao Paulo",
+    "pos": "ATA",
+    "name": "M. Terrier",
+    "rating": 78,
+    "base_value": 190,
+    "multiplier": 1.3,
+    "market_value": 247.0
+  },
+  {
+    "team": "Cruzeiro",
+    "pos": "GK",
+    "name": "Weverton",
+    "rating": 80,
+    "base_value": 250,
+    "multiplier": 0.9,
+    "market_value": 225.0
+  },
+  {
+    "team": "Cruzeiro",
+    "pos": "GK",
+    "name": "Walter",
+    "rating": 76,
+    "base_value": 130,
+    "multiplier": 0.9,
+    "market_value": 117.0
+  },
+  {
+    "team": "Cruzeiro",
+    "pos": "ZG",
+    "name": "Roger Ibanez",
+    "rating": 84,
+    "base_value": 500,
+    "multiplier": 0.9,
+    "market_value": 450.0
+  },
+  {
+    "team": "Cruzeiro",
+    "pos": "ZG",
+    "name": "Cleiton",
+    "rating": 72,
+    "base_value": 50,
+    "multiplier": 0.9,
+    "market_value": 45.0
+  },
+  {
+    "team": "Cruzeiro",
+    "pos": "ZG",
+    "name": "A. Barboza",
+    "rating": 79,
+    "base_value": 220,
+    "multiplier": 0.9,
+    "market_value": 198.0
+  },
+  {
+    "team": "Cruzeiro",
+    "pos": "LD",
+    "name": "G. Montiel",
+    "rating": 81,
+    "base_value": 300,
+    "multiplier": 1.0,
+    "market_value": 300.0
+  },
+  {
+    "team": "Cruzeiro",
+    "pos": "LE",
+    "name": "Caio Henrique",
+    "rating": 78,
+    "base_value": 190,
+    "multiplier": 1.0,
+    "market_value": 190.0
+  },
+  {
+    "team": "Cruzeiro",
+    "pos": "VOL",
+    "name": "Jucilei",
+    "rating": 74,
+    "base_value": 80,
+    "multiplier": 1.0,
+    "market_value": 80.0
+  },
+  {
+    "team": "Cruzeiro",
+    "pos": "VOL",
+    "name": "Sandro",
+    "rating": 74,
+    "base_value": 80,
+    "multiplier": 1.0,
+    "market_value": 80.0
+  },
+  {
+    "team": "Cruzeiro",
+    "pos": "MLG",
+    "name": "Renato Bruno",
+    "rating": 75,
+    "base_value": 100,
+    "multiplier": 1.15,
+    "market_value": 114.99999999999999
+  },
+  {
+    "team": "Cruzeiro",
+    "pos": "MLG",
+    "name": "N. Fernández",
+    "rating": 80,
+    "base_value": 250,
+    "multiplier": 1.15,
+    "market_value": 287.5
+  },
+  {
+    "team": "Cruzeiro",
+    "pos": "MAT",
+    "name": "Jhon Jhon",
+    "rating": 74,
+    "base_value": 80,
+    "multiplier": 1.15,
+    "market_value": 92.0
+  },
+  {
+    "team": "Cruzeiro",
+    "pos": "PD",
+    "name": "B. Rollheiser",
+    "rating": 80,
+    "base_value": 250,
+    "multiplier": 1.3,
+    "market_value": 325.0
+  },
+  {
+    "team": "Cruzeiro",
+    "pos": "PE",
+    "name": "Wellington Rato",
+    "rating": 79,
+    "base_value": 220,
+    "multiplier": 1.3,
+    "market_value": 286.0
+  },
+  {
+    "team": "Cruzeiro",
+    "pos": "CA",
+    "name": "Flaco López",
+    "rating": 80,
+    "base_value": 250,
+    "multiplier": 1.3,
+    "market_value": 325.0
+  },
+  {
+    "team": "Cruzeiro",
+    "pos": "ATA",
+    "name": "Manu Vallejo",
+    "rating": 76,
+    "base_value": 130,
+    "multiplier": 1.3,
+    "market_value": 169.0
+  },
+  {
+    "team": "Atletico MG",
+    "pos": "GK",
+    "name": "Hugo Souza",
+    "rating": 75,
+    "base_value": 100,
+    "multiplier": 0.9,
+    "market_value": 90.0
+  },
+  {
+    "team": "Atletico MG",
+    "pos": "GK",
+    "name": "Danilo Fernandes",
+    "rating": 75,
+    "base_value": 100,
+    "multiplier": 0.9,
+    "market_value": 90.0
+  },
+  {
+    "team": "Atletico MG",
+    "pos": "ZG",
+    "name": "Juan Jesus",
+    "rating": 75,
+    "base_value": 100,
+    "multiplier": 0.9,
+    "market_value": 90.0
+  },
+  {
+    "team": "Atletico MG",
+    "pos": "ZG",
+    "name": "Thiago Silva",
+    "rating": 82,
+    "base_value": 360,
+    "multiplier": 0.9,
+    "market_value": 324.0
+  },
+  {
+    "team": "Atletico MG",
+    "pos": "ZG",
+    "name": "Bruno Valdez",
+    "rating": 75,
+    "base_value": 100,
+    "multiplier": 0.9,
+    "market_value": 90.0
+  },
+  {
+    "team": "Atletico MG",
+    "pos": "LD",
+    "name": "Mayke",
+    "rating": 81,
+    "base_value": 300,
+    "multiplier": 1.0,
+    "market_value": 300.0
+  },
+  {
+    "team": "Atletico MG",
+    "pos": "LE",
+    "name": "Tiago Gomes",
+    "rating": 73,
+    "base_value": 60,
+    "multiplier": 1.0,
+    "market_value": 60.0
+  },
+  {
+    "team": "Atletico MG",
+    "pos": "VOL",
+    "name": "Jorginho",
+    "rating": 82,
+    "base_value": 360,
+    "multiplier": 1.0,
+    "market_value": 360.0
+  },
+  {
+    "team": "Atletico MG",
+    "pos": "VOL",
+    "name": "Lucas Silva",
+    "rating": 74,
+    "base_value": 80,
+    "multiplier": 1.0,
+    "market_value": 80.0
+  },
+  {
+    "team": "Atletico MG",
+    "pos": "MLG",
+    "name": "William",
+    "rating": 80,
+    "base_value": 250,
+    "multiplier": 1.15,
+    "market_value": 287.5
+  },
+  {
+    "team": "Atletico MG",
+    "pos": "MLG",
+    "name": "Éverton Ribeiro",
+    "rating": 78,
+    "base_value": 190,
+    "multiplier": 1.15,
+    "market_value": 218.49999999999997
+  },
+  {
+    "team": "Atletico MG",
+    "pos": "MAT",
+    "name": "Fernando Godoy",
+    "rating": 76,
+    "base_value": 130,
+    "multiplier": 1.15,
+    "market_value": 149.5
+  },
+  {
+    "team": "Atletico MG",
+    "pos": "PD",
+    "name": "Gonzalo Plata",
+    "rating": 81,
+    "base_value": 300,
+    "multiplier": 1.3,
+    "market_value": 390.0
+  },
+  {
+    "team": "Atletico MG",
+    "pos": "PE",
+    "name": "Keny Arroyo",
+    "rating": 78,
+    "base_value": 190,
+    "multiplier": 1.3,
+    "market_value": 247.0
+  },
+  {
+    "team": "Atletico MG",
+    "pos": "CA",
+    "name": "Igor Jesus",
+    "rating": 81,
+    "base_value": 300,
+    "multiplier": 1.3,
+    "market_value": 390.0
+  },
+  {
+    "team": "Atletico MG",
+    "pos": "ATA",
+    "name": "M. Depay",
+    "rating": 85,
+    "base_value": 600,
+    "multiplier": 1.3,
+    "market_value": 780.0
+  },
+  {
+    "team": "Internacional",
+    "pos": "GK",
+    "name": "Tiago Volpi",
+    "rating": 77,
+    "base_value": 160,
+    "multiplier": 0.9,
+    "market_value": 144.0
+  },
+  {
+    "team": "Internacional",
+    "pos": "GK",
+    "name": "Carlos Miguel",
+    "rating": 74,
+    "base_value": 80,
+    "multiplier": 0.9,
+    "market_value": 72.0
+  },
+  {
+    "team": "Internacional",
+    "pos": "ZG",
+    "name": "Sergio Ramos",
+    "rating": 86,
+    "base_value": 700,
+    "multiplier": 0.9,
+    "market_value": 630.0
+  },
+  {
+    "team": "Internacional",
+    "pos": "ZG",
+    "name": "Lyanco",
+    "rating": 77,
+    "base_value": 160,
+    "multiplier": 0.9,
+    "market_value": 144.0
+  },
+  {
+    "team": "Internacional",
+    "pos": "ZG",
+    "name": "D. Martinez",
+    "rating": 78,
+    "base_value": 190,
+    "multiplier": 0.9,
+    "market_value": 171.0
+  },
+  {
+    "team": "Internacional",
+    "pos": "LD",
+    "name": "Marcinho",
+    "rating": 74,
+    "base_value": 80,
+    "multiplier": 1.0,
+    "market_value": 80.0
+  },
+  {
+    "team": "Internacional",
+    "pos": "LE",
+    "name": "Douglas Santos",
+    "rating": 82,
+    "base_value": 360,
+    "multiplier": 1.0,
+    "market_value": 360.0
+  },
+  {
+    "team": "Internacional",
+    "pos": "VOL",
+    "name": "Pablo Maia",
+    "rating": 81,
+    "base_value": 300,
+    "multiplier": 1.0,
+    "market_value": 300.0
+  },
+  {
+    "team": "Internacional",
+    "pos": "VOL",
+    "name": "Rafael Gava",
+    "rating": 70,
+    "base_value": 30,
+    "multiplier": 1.0,
+    "market_value": 30.0
+  },
+  {
+    "team": "Internacional",
+    "pos": "MLG",
+    "name": "Raul",
+    "rating": 76,
+    "base_value": 130,
+    "multiplier": 1.15,
+    "market_value": 149.5
+  },
+  {
+    "team": "Internacional",
+    "pos": "MLG",
+    "name": "Thomás Belmonte",
+    "rating": 80,
+    "base_value": 250,
+    "multiplier": 1.15,
+    "market_value": 287.5
+  },
+  {
+    "team": "Internacional",
+    "pos": "MAT",
+    "name": "Danielzinho",
+    "rating": 74,
+    "base_value": 80,
+    "multiplier": 1.15,
+    "market_value": 92.0
+  },
+  {
+    "team": "Internacional",
+    "pos": "PD",
+    "name": "F. Sambueza",
+    "rating": 74,
+    "base_value": 80,
+    "multiplier": 1.3,
+    "market_value": 104.0
+  },
+  {
+    "team": "Internacional",
+    "pos": "PE",
+    "name": "Samuel Lino",
+    "rating": 82,
+    "base_value": 360,
+    "multiplier": 1.3,
+    "market_value": 468.0
+  },
+  {
+    "team": "Internacional",
+    "pos": "CA",
+    "name": "Vitor Roque",
+    "rating": 83,
+    "base_value": 430,
+    "multiplier": 1.3,
+    "market_value": 559.0
+  },
+  {
+    "team": "Internacional",
+    "pos": "ATA",
+    "name": "Luciano",
+    "rating": 78,
+    "base_value": 190,
+    "multiplier": 1.3,
+    "market_value": 247.0
+  },
+  {
+    "team": "Flamengo",
+    "pos": "GK",
+    "name": "Matheus Donelli",
+    "rating": 74,
+    "base_value": 80,
+    "multiplier": 0.9,
+    "market_value": 72.0
+  },
+  {
+    "team": "Flamengo",
+    "pos": "GK",
+    "name": "Ivan",
+    "rating": 73,
+    "base_value": 60,
+    "multiplier": 0.9,
+    "market_value": 54.0
+  },
+  {
+    "team": "Flamengo",
+    "pos": "ZG",
+    "name": "Rodrigo Ely",
+    "rating": 74,
+    "base_value": 80,
+    "multiplier": 0.9,
+    "market_value": 72.0
+  },
+  {
+    "team": "Flamengo",
+    "pos": "ZG",
+    "name": "S. Denswil",
+    "rating": 76,
+    "base_value": 130,
+    "multiplier": 0.9,
+    "market_value": 117.0
+  },
+  {
+    "team": "Flamengo",
+    "pos": "ZG",
+    "name": "Danilo",
+    "rating": 83,
+    "base_value": 430,
+    "multiplier": 0.9,
+    "market_value": 387.0
+  },
+  {
+    "team": "Flamengo",
+    "pos": "LD",
+    "name": "Marcos Rocha",
+    "rating": 81,
+    "base_value": 300,
+    "multiplier": 1.0,
+    "market_value": 300.0
+  },
+  {
+    "team": "Flamengo",
+    "pos": "LE",
+    "name": "F. Angileri",
+    "rating": 78,
+    "base_value": 190,
+    "multiplier": 1.0,
+    "market_value": 190.0
+  },
+  {
+    "team": "Flamengo",
+    "pos": "VOL",
+    "name": "Felipe Melo",
+    "rating": 80,
+    "base_value": 250,
+    "multiplier": 1.0,
+    "market_value": 250.0
+  },
+  {
+    "team": "Flamengo",
+    "pos": "VOL",
+    "name": "Edison Vega",
+    "rating": 74,
+    "base_value": 80,
+    "multiplier": 1.0,
+    "market_value": 80.0
+  },
+  {
+    "team": "Flamengo",
+    "pos": "MLG",
+    "name": "Felipe Augusto",
+    "rating": 72,
+    "base_value": 50,
+    "multiplier": 1.15,
+    "market_value": 57.49999999999999
+  },
+  {
+    "team": "Flamengo",
+    "pos": "MLG",
+    "name": "Pity Martínez",
+    "rating": 79,
+    "base_value": 220,
+    "multiplier": 1.15,
+    "market_value": 252.99999999999997
+  },
+  {
+    "team": "Flamengo",
+    "pos": "MAT",
+    "name": "De Arrascaeta",
+    "rating": 83,
+    "base_value": 430,
+    "multiplier": 1.15,
+    "market_value": 494.49999999999994
+  },
+  {
+    "team": "Flamengo",
+    "pos": "PD",
+    "name": "Luiz Araújo",
+    "rating": 80,
+    "base_value": 250,
+    "multiplier": 1.3,
+    "market_value": 325.0
+  },
+  {
+    "team": "Flamengo",
+    "pos": "PE",
+    "name": "A. Canobbio",
+    "rating": 77,
+    "base_value": 160,
+    "multiplier": 1.3,
+    "market_value": 208.0
+  },
+  {
+    "team": "Flamengo",
+    "pos": "CA",
+    "name": "Roberto Firmino",
+    "rating": 82,
+    "base_value": 360,
+    "multiplier": 1.3,
+    "market_value": 468.0
+  },
+  {
+    "team": "Flamengo",
+    "pos": "ATA",
+    "name": "Gabriel Barbosa",
+    "rating": 78,
+    "base_value": 190,
+    "multiplier": 1.3,
+    "market_value": 247.0
+  },
+  {
+    "team": "America MG",
+    "pos": "GK",
+    "name": "Matheus Cunha",
+    "rating": 76,
+    "base_value": 130,
+    "multiplier": 0.9,
+    "market_value": 117.0
+  },
+  {
+    "team": "America MG",
+    "pos": "GK",
+    "name": "Marcelo Lomba",
+    "rating": 76,
+    "base_value": 130,
+    "multiplier": 0.9,
+    "market_value": 117.0
+  },
+  {
+    "team": "America MG",
+    "pos": "ZG",
+    "name": "Federico Torres",
+    "rating": 75,
+    "base_value": 100,
+    "multiplier": 0.9,
+    "market_value": 90.0
+  },
+  {
+    "team": "America MG",
+    "pos": "ZG",
+    "name": "Junior Alonso",
+    "rating": 78,
+    "base_value": 190,
+    "multiplier": 0.9,
+    "market_value": 171.0
+  },
+  {
+    "team": "America MG",
+    "pos": "ZG",
+    "name": "G. Gomez",
+    "rating": 81,
+    "base_value": 300,
+    "multiplier": 0.9,
+    "market_value": 270.0
+  },
+  {
+    "team": "America MG",
+    "pos": "LD",
+    "name": "Emerson Royal",
+    "rating": 79,
+    "base_value": 220,
+    "multiplier": 1.0,
+    "market_value": 220.0
+  },
+  {
+    "team": "America MG",
+    "pos": "LE",
+    "name": "Guilherme Arana",
+    "rating": 81,
+    "base_value": 300,
+    "multiplier": 1.0,
+    "market_value": 300.0
+  },
+  {
+    "team": "America MG",
+    "pos": "VOL",
+    "name": "Gabriel Neves",
+    "rating": 79,
+    "base_value": 220,
+    "multiplier": 1.0,
+    "market_value": 220.0
+  },
+  {
+    "team": "America MG",
+    "pos": "VOL",
+    "name": "João Gomes",
+    "rating": 84,
+    "base_value": 500,
+    "multiplier": 1.0,
+    "market_value": 500.0
+  },
+  {
+    "team": "America MG",
+    "pos": "MLG",
+    "name": "J. Cuadrado",
+    "rating": 79,
+    "base_value": 220,
+    "multiplier": 1.15,
+    "market_value": 252.99999999999997
+  },
+  {
+    "team": "America MG",
+    "pos": "MLG",
+    "name": "Alisson",
+    "rating": 75,
+    "base_value": 100,
+    "multiplier": 1.15,
+    "market_value": 114.99999999999999
+  },
+  {
+    "team": "America MG",
+    "pos": "MAT",
+    "name": "Gustavo Scarpa",
+    "rating": 81,
+    "base_value": 300,
+    "multiplier": 1.15,
+    "market_value": 345.0
+  },
+  {
+    "team": "America MG",
+    "pos": "PD",
+    "name": "Matheus Pereira",
+    "rating": 78,
+    "base_value": 190,
+    "multiplier": 1.3,
+    "market_value": 247.0
+  },
+  {
+    "team": "America MG",
+    "pos": "PE",
+    "name": "Neymar Jr",
+    "rating": 84,
+    "base_value": 500,
+    "multiplier": 1.3,
+    "market_value": 650.0
+  },
+  {
+    "team": "America MG",
+    "pos": "CA",
+    "name": "Kaio Jorge",
+    "rating": 80,
+    "base_value": 250,
+    "multiplier": 1.3,
+    "market_value": 325.0
+  },
+  {
+    "team": "America MG",
+    "pos": "ATA",
+    "name": "Arthur Sousa",
+    "rating": 71,
+    "base_value": 40,
+    "multiplier": 1.3,
+    "market_value": 52.0
+  },
+  {
+    "team": "Avai",
+    "pos": "GK",
+    "name": "João Paulo",
+    "rating": 73,
+    "base_value": 60,
+    "multiplier": 0.9,
+    "market_value": 54.0
+  },
+  {
+    "team": "Avai",
+    "pos": "GK",
+    "name": "S. Rochet",
+    "rating": 78,
+    "base_value": 190,
+    "multiplier": 0.9,
+    "market_value": 171.0
+  },
+  {
+    "team": "Avai",
+    "pos": "ZG",
+    "name": "Alemão",
+    "rating": 72,
+    "base_value": 50,
+    "multiplier": 0.9,
+    "market_value": 45.0
+  },
+  {
+    "team": "Avai",
+    "pos": "ZG",
+    "name": "Kaio",
+    "rating": 77,
+    "base_value": 160,
+    "multiplier": 0.9,
+    "market_value": 144.0
+  },
+  {
+    "team": "Avai",
+    "pos": "ZG",
+    "name": "Manuel Capasso",
+    "rating": 74,
+    "base_value": 80,
+    "multiplier": 0.9,
+    "market_value": 72.0
+  },
+  {
+    "team": "Avai",
+    "pos": "LD",
+    "name": "Vanderson",
+    "rating": 77,
+    "base_value": 160,
+    "multiplier": 1.0,
+    "market_value": 160.0
+  },
+  {
+    "team": "Avai",
+    "pos": "LE",
+    "name": "Diogo Barbosa",
+    "rating": 76,
+    "base_value": 130,
+    "multiplier": 1.0,
+    "market_value": 130.0
+  },
+  {
+    "team": "Avai",
+    "pos": "VOL",
+    "name": "Erick Pulgar",
+    "rating": 82,
+    "base_value": 360,
+    "multiplier": 1.0,
+    "market_value": 360.0
+  },
+  {
+    "team": "Avai",
+    "pos": "VOL",
+    "name": "Renê Júnior",
+    "rating": 75,
+    "base_value": 100,
+    "multiplier": 1.0,
+    "market_value": 100.0
+  },
+  {
+    "team": "Avai",
+    "pos": "MLG",
+    "name": "Edenílson",
+    "rating": 77,
+    "base_value": 160,
+    "multiplier": 1.15,
+    "market_value": 184.0
+  },
+  {
+    "team": "Avai",
+    "pos": "MLG",
+    "name": "R. Bentancur",
+    "rating": 84,
+    "base_value": 500,
+    "multiplier": 1.15,
+    "market_value": 575.0
+  },
+  {
+    "team": "Avai",
+    "pos": "MAT",
+    "name": "Lucas Paquetá",
+    "rating": 86,
+    "base_value": 700,
+    "multiplier": 1.15,
+    "market_value": 804.9999999999999
+  },
+  {
+    "team": "Avai",
+    "pos": "PD",
+    "name": "Tahith Chong",
+    "rating": 75,
+    "base_value": 100,
+    "multiplier": 1.3,
+    "market_value": 130.0
+  },
+  {
+    "team": "Avai",
+    "pos": "PE",
+    "name": "Luiz Henrique",
+    "rating": 81,
+    "base_value": 300,
+    "multiplier": 1.3,
+    "market_value": 390.0
+  },
+  {
+    "team": "Avai",
+    "pos": "CA",
+    "name": "Endrick",
+    "rating": 79,
+    "base_value": 220,
+    "multiplier": 1.3,
+    "market_value": 286.0
+  },
+  {
+    "team": "Avai",
+    "pos": "ATA",
+    "name": "Diego Castillo",
+    "rating": 71,
+    "base_value": 40,
+    "multiplier": 1.3,
+    "market_value": 52.0
+  },
+  {
+    "team": "Botafogo",
+    "pos": "GK",
+    "name": "A. Rossi",
+    "rating": 78,
+    "base_value": 190,
+    "multiplier": 0.9,
+    "market_value": 171.0
+  },
+  {
+    "team": "Botafogo",
+    "pos": "GK",
+    "name": "Rafael",
+    "rating": 76,
+    "base_value": 130,
+    "multiplier": 0.9,
+    "market_value": 117.0
+  },
+  {
+    "team": "Botafogo",
+    "pos": "ZG",
+    "name": "N. Pérez",
+    "rating": 75,
+    "base_value": 100,
+    "multiplier": 0.9,
+    "market_value": 90.0
+  },
+  {
+    "team": "Botafogo",
+    "pos": "ZG",
+    "name": "Luis Cáceres",
+    "rating": 76,
+    "base_value": 130,
+    "multiplier": 0.9,
+    "market_value": 117.0
+  },
+  {
+    "team": "Botafogo",
+    "pos": "ZG",
+    "name": "Bastos",
+    "rating": 77,
+    "base_value": 160,
+    "multiplier": 0.9,
+    "market_value": 144.0
+  },
+  {
+    "team": "Botafogo",
+    "pos": "LD",
+    "name": "Azpilicueta",
+    "rating": 81,
+    "base_value": 300,
+    "multiplier": 1.0,
+    "market_value": 300.0
+  },
+  {
+    "team": "Botafogo",
+    "pos": "LE",
+    "name": "J. Piquerez",
+    "rating": 83,
+    "base_value": 430,
+    "multiplier": 1.0,
+    "market_value": 430.0
+  },
+  {
+    "team": "Botafogo",
+    "pos": "VOL",
+    "name": "Lucas Romero",
+    "rating": 78,
+    "base_value": 190,
+    "multiplier": 1.0,
+    "market_value": 190.0
+  },
+  {
+    "team": "Botafogo",
+    "pos": "VOL",
+    "name": "Enzo Pérez",
+    "rating": 79,
+    "base_value": 220,
+    "multiplier": 1.0,
+    "market_value": 220.0
+  },
+  {
+    "team": "Botafogo",
+    "pos": "MLG",
+    "name": "F. Jagiello",
+    "rating": 70,
+    "base_value": 30,
+    "multiplier": 1.15,
+    "market_value": 34.5
+  },
+  {
+    "team": "Botafogo",
+    "pos": "MLG",
+    "name": "Jean Lucas",
+    "rating": 83,
+    "base_value": 430,
+    "multiplier": 1.15,
+    "market_value": 494.49999999999994
+  },
+  {
+    "team": "Botafogo",
+    "pos": "MAT",
+    "name": "Rodrigo Garro",
+    "rating": 84,
+    "base_value": 500,
+    "multiplier": 1.15,
+    "market_value": 575.0
+  },
+  {
+    "team": "Botafogo",
+    "pos": "PD",
+    "name": "Luis Henrique",
+    "rating": 74,
+    "base_value": 80,
+    "multiplier": 1.3,
+    "market_value": 104.0
+  },
+  {
+    "team": "Botafogo",
+    "pos": "PE",
+    "name": "J. Carrascal",
+    "rating": 77,
+    "base_value": 160,
+    "multiplier": 1.3,
+    "market_value": 208.0
+  },
+  {
+    "team": "Botafogo",
+    "pos": "CA",
+    "name": "Carlos Vinicius",
+    "rating": 79,
+    "base_value": 220,
+    "multiplier": 1.3,
+    "market_value": 286.0
+  },
+  {
+    "team": "Botafogo",
+    "pos": "ATA",
+    "name": "F. Pereyra",
+    "rating": 74,
+    "base_value": 80,
+    "multiplier": 1.3,
+    "market_value": 104.0
+  },
+  {
+    "team": "Time 10",
+    "pos": "GK",
+    "name": "Santos",
+    "rating": 80,
+    "base_value": 250,
+    "multiplier": 0.9,
+    "market_value": 225.0
+  },
+  {
+    "team": "Time 10",
+    "pos": "GK",
+    "name": "Cássio",
+    "rating": 80,
+    "base_value": 250,
+    "multiplier": 0.9,
+    "market_value": 225.0
+  },
+  {
+    "team": "Time 10",
+    "pos": "ZG",
+    "name": "Fabricio Bruno",
+    "rating": 80,
+    "base_value": 250,
+    "multiplier": 0.9,
+    "market_value": 225.0
+  },
+  {
+    "team": "Time 10",
+    "pos": "ZG",
+    "name": "Robert Renan",
+    "rating": 81,
+    "base_value": 300,
+    "multiplier": 0.9,
+    "market_value": 270.0
+  },
+  {
+    "team": "Time 10",
+    "pos": "ZG",
+    "name": "Diogo Leite",
+    "rating": 75,
+    "base_value": 100,
+    "multiplier": 0.9,
+    "market_value": 90.0
+  },
+  {
+    "team": "Time 10",
+    "pos": "LD",
+    "name": "H. Palacios",
+    "rating": 74,
+    "base_value": 80,
+    "multiplier": 1.0,
+    "market_value": 80.0
+  },
+  {
+    "team": "Time 10",
+    "pos": "LE",
+    "name": "Roberto",
+    "rating": 70,
+    "base_value": 30,
+    "multiplier": 1.0,
+    "market_value": 30.0
+  },
+  {
+    "team": "Time 10",
+    "pos": "VOL",
+    "name": "Matheus Jussa",
+    "rating": 70,
+    "base_value": 30,
+    "multiplier": 1.0,
+    "market_value": 30.0
+  },
+  {
+    "team": "Time 10",
+    "pos": "VOL",
+    "name": "E. Atuesta",
+    "rating": 74,
+    "base_value": 80,
+    "multiplier": 1.0,
+    "market_value": 80.0
+  },
+  {
+    "team": "Time 10",
+    "pos": "MLG",
+    "name": "Matheus Nunes",
+    "rating": 83,
+    "base_value": 430,
+    "multiplier": 1.15,
+    "market_value": 494.49999999999994
+  },
+  {
+    "team": "Time 10",
+    "pos": "MLG",
+    "name": "Bruno Guimarães",
+    "rating": 85,
+    "base_value": 600,
+    "multiplier": 1.15,
+    "market_value": 690.0
+  },
+  {
+    "team": "Time 10",
+    "pos": "MAT",
+    "name": "Andrey Santos",
+    "rating": 80,
+    "base_value": 250,
+    "multiplier": 1.15,
+    "market_value": 287.5
+  },
+  {
+    "team": "Time 10",
+    "pos": "PD",
+    "name": "Lucas Moura",
+    "rating": 81,
+    "base_value": 300,
+    "multiplier": 1.3,
+    "market_value": 390.0
+  },
+  {
+    "team": "Time 10",
+    "pos": "PE",
+    "name": "Paulinho",
+    "rating": 81,
+    "base_value": 300,
+    "multiplier": 1.3,
+    "market_value": 390.0
+  },
+  {
+    "team": "Time 10",
+    "pos": "CA",
+    "name": "Lincoln",
+    "rating": 75,
+    "base_value": 100,
+    "multiplier": 1.3,
+    "market_value": 130.0
+  },
+  {
+    "team": "Time 10",
+    "pos": "ATA",
+    "name": "Marcos Leonardo",
+    "rating": 79,
+    "base_value": 220,
+    "multiplier": 1.3,
+    "market_value": 286.0
+  }
+]
